@@ -1,4 +1,3 @@
-
 # House Prices Prediction Project
 
 ## Overview
